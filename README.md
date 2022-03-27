@@ -14,6 +14,17 @@ This project is a todo app. I built this app using the Flutter bloc for state ma
 
 
 </ul>
-
+<table>
+<tr>
+<td>
 <img src="https://user-images.githubusercontent.com/62711340/160292760-e8b6eb13-3c80-470c-bfdc-71cdd4649bf8.png" alt=""/>
+
+</td>
+
+<td>
+<img src="https://user-images.githubusercontent.com/62711340/154778436-e31b5823-a591-4d62-88fe-f79e2be4d3f7.png">
+</td>
+</tr>
+</table>
+
 
