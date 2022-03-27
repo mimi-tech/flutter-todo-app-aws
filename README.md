@@ -22,7 +22,7 @@ This project is a todo app. I built this app using the Flutter bloc for state ma
 </td>
 
 <td>
-<img src="https://user-images.githubusercontent.com/62711340/154778436-e31b5823-a591-4d62-88fe-f79e2be4d3f7.png">
+<img src="https://user-images.githubusercontent.com/62711340/160292876-2dbc29c6-3d27-4c94-97ed-d3c15e35e8f8.png">
 </td>
 </tr>
 </table>
